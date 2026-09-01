@@ -11,7 +11,7 @@ Welcome to my portfolio. I specialize in bridging the gap between technical web 
 ### 01. Mindful Haven Web Platform
 * **Tech:** HTML5, CSS3, Formspree API
 * **Focus:** Responsive design and user engagement.
-* **Link:** https://www.mindfulhaven.org/
+* **Link:** n/a
 
 ### 02. New Century Systems Design
 * **Tools:** Microsoft Excel (Advanced), SDLC Methodologies
